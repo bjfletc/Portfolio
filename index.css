@@ -2,6 +2,8 @@ body {
   background-color: #121A2F;
   color: white;
   font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial";
+  padding: 0;
+  margin: 0;
 }
 
 #name {
