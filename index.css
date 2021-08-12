@@ -34,7 +34,7 @@ body {
 
 .bio {
   position: absolute;
-  top: 60%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, 0);
   text-align: center;
